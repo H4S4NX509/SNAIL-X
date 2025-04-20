@@ -1,7 +1,7 @@
 
 <h1 align="center">🦠 SNAIL DDOS</h1>
 <p align="center">
-  <img src="[https://i.imgur.com/ATj7oCG.png](https://github.com/H4S4NX509/SNAIL-X/blob/main/Screenshot_20250421-025654_1.png)" width="400"/><br><br>
+  <img src="https://github.com/H4S4NX509/SNAIL-X/blob/main/Screenshot_20250421-025654_1.png" width="400"/><br><br>
   <b>Advanced Python Slowloris Framework For HTTP Protocol Storms</b><br>
   <i>Built for power. Optimized for precision. Runs like a snail, hits like a bomb.</i>
 </p>
