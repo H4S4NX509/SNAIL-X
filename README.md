@@ -1,7 +1,7 @@
 
 <h1 align="center">🦠 SNAIL DDOS</h1>
 <p align="center">
-  <img src="https://i.imgur.com/ATj7oCG.png" width="400"/><br><br>
+  <img src="[https://i.imgur.com/ATj7oCG.png](https://github.com/H4S4NX509/SNAIL-X/blob/main/Screenshot_20250421-025654_1.png)" width="400"/><br><br>
   <b>Advanced Python Slowloris Framework For HTTP Protocol Storms</b><br>
   <i>Built for power. Optimized for precision. Runs like a snail, hits like a bomb.</i>
 </p>
@@ -24,8 +24,8 @@
 ### Kali Linux / Termux
 ```bash
 apt update && apt install python3 git -y
-git clone https://github.com/H4S4NX509/SNAIL.git
-cd SNAIL
+git clone https://github.com/H4S4NX509/SNAIL-X.git
+cd SNAIL-X
 pip install -r requirements.txt
 python3 snail.py
 
@@ -38,8 +38,8 @@ Windows 10/11
 
 
 
-git clone https://github.com/H4S4NX509/SNAIL.git
-cd SNAIL
+git clone https://github.com/H4S4NX509/SNAIL-X.git
+cd SNAIL-X
 pip install -r requirements.txt
 python snail.py
 ```
@@ -64,6 +64,6 @@ Misuse can lead to serious consequences.
 
 ---
 
-SNAIL – The silence before the HTTP storm
+😈 SNAIL – The silence before the HTTP storm
 
 ---
