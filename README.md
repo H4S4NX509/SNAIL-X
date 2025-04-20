@@ -13,7 +13,7 @@
 - **Slowloris Engine** – Enhanced header floods with obfuscation
 - **TLS/SSL Bypass** – Built-in HTTPS stealth methods
 - **Smart Headers** – Junk headers, spoofed requests, stealth flooding
-- **User-Agent Cyclone** – Fake agents powered by `fake_useragent`
+- **User-Agent Cyclone** – Fake agents powered
 - **Live Terminal Logs** – Colored, real-time status updates
 - **Fully Termux-Compatible** – No root required!
 
